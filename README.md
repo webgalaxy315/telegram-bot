@@ -1,2 +1,1 @@
-# telegram-bot
-telegram multi bot
+# telegram-multi-bot
